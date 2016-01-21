@@ -49,10 +49,11 @@
       <ul class="nav nav-stacked">
           <li><a href="progresslist"><i class="glyphicon glyphicon-list-alt"></i>Weekly Progress</a></li>
           <li><a href="productionchangeform"><i class="glyphicon glyphicon-book"></i>Production Change</a></li>
-          <li><a href="piechart"><i class="glyphicon glyphicon-ok"></i> Google Chart</a></li>
+         
           <li><a href="list"><i class="glyphicon glyphicon-ok"></i> view list</a></li>
           <li><a href="buglist"><i class="glyphicon glyphicon-ok"></i> Bugs</a></li>
           <li><a href="list2"><i class="glyphicon glyphicon-ok"></i>View Bug List</a></li>
+      <li><a href="sendEmail"><i class="glyphicon glyphicon-ok"></i>Enhancement</a></li>
       </ul>
       
       <hr>
